@@ -1,0 +1,2 @@
+github provides a robust, web based platform for version control that allows terms to collaborate seamlessy on code and projects.
+github is a web based interface that allows real time collaboration.
