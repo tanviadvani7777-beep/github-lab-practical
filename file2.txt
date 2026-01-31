@@ -1,0 +1,2 @@
+git branching allows you to diverge from the main project line to develop features to fix bugs in isolated environment without affecting the stable code.
+aa branch in git is a simply a lightweight movable pointer to one of these commits.
