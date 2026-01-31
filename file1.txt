@@ -1,0 +1,2 @@
+github is a cloud based platform where devlopers store, manage,tracks change to the code using git.
+the platform also thrives on community
